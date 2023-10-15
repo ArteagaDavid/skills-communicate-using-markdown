@@ -17,7 +17,9 @@ print("Hello World")
 ```
 
 
-
+- [ ] Add cat image
+- [ ] Add Python example
+- [ ] Add Task list
 
 
 
